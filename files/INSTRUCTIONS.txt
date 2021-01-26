@@ -1,0 +1,13 @@
+Linux Competency Basics
+
+Scripts in /vagrant are used to set up this test environment. Thus, looking there will give you the answers to many questions. Please don't look there.
+
+
+1) SSHing **to this machine** is broken. This is not a networking issue. The issue exists on this server and can be fixed using only files and commands on this server. Diagnose why you are unable to ssh to the vagrant account on this server. Fix it.
+
+2) Add a user "Jake Smith, username "jsmith". 
+
+3) Add this user to the sudoers file, so jsmith can do paswordless sudo.
+
+4) Update all the software on this system.
+
